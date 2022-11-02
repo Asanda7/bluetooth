@@ -1,0 +1,98 @@
+body {
+	text-align: center;
+	color: rgb(4, 3, 3);
+	font-size: 1.2em;
+    background-color: white;
+}
+
+.display-none {
+	display: none;
+}
+
+.recording {
+	color: rgb(0, 0, 0);
+	  background-color: white;
+	padding: 5px;
+	margin: 6px auto;
+	width: 100%;
+}
+
+video {
+	  background-color: white;
+	display: block;
+	margin: 6px auto;
+	width: 45%;
+	height: 240px;
+}
+
+audio {
+	display: block;
+	margin: 6px auto;
+}
+#getDetails{
+	height: 140px;
+	width: 50%;
+
+
+}
+#getDetails:hover{
+	background-color: rgb(59, 55, 55);
+	color: aliceblue;
+	font-size: 1em;
+	transition: 1.57s;
+	border: none;
+}
+section{
+	margin-top: 60px;
+	width: 100%;
+}
+a{
+	transform: none;
+	text-decoration: none;
+	display: block;
+	text-transform: uppercase;
+	padding-top: 50px;
+	color: black;
+	size: 2em;
+	font-weight: bolder;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover{
+	border-top: 2xp solid black;
+	color: rgb(14, 14, 15);
+	size: 2.5em;
+	
+	height: 20px;
+	width: 100%;
+	transition: 2s;
+}
+     body
+      {
+          max-width: 500px;
+          margin: 2em auto;
+          font-size: 20px;
+      }
+      h1
+      {
+          text-align: center;
+      }
+      .hidden
+      {
+          display: none;
+      }
+ 
+      .buttons-wrapper
+      {
+          text-align: center;
+      }
+      .button-demo
+      {
+          padding: 0.5em;
+          margin: 1em auto;
+      }
+      .author
+      {
+          display: block;
+          margin-top: 1em;
+      }
